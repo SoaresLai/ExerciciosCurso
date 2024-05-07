@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\COURSE\COURSE\bin\Debug\net6.0\COURSE.exe
+C:\Users\Administrador\Documents\COURSE\COURSE\bin\Debug\net6.0\COURSE.deps.json
+C:\Users\Administrador\Documents\COURSE\COURSE\bin\Debug\net6.0\COURSE.runtimeconfig.json
+C:\Users\Administrador\Documents\COURSE\COURSE\bin\Debug\net6.0\COURSE.dll
+C:\Users\Administrador\Documents\COURSE\COURSE\bin\Debug\net6.0\COURSE.pdb
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\COURSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\COURSE.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\COURSE.AssemblyInfo.cs
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\COURSE.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\COURSE.dll
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\refint\COURSE.dll
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\COURSE.pdb
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\COURSE.genruntimeconfig.cache
+C:\Users\Administrador\Documents\COURSE\COURSE\obj\Debug\net6.0\ref\COURSE.dll

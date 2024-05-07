@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.exe
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.deps.json
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.runtimeconfig.json
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.dll
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.pdb
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.dll
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\refint\ExercicioListas.dll
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.pdb
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Curso C #\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ref\ExercicioListas.dll

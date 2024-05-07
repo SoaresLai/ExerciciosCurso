@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\bin\Debug\net6.0\EXERCICIO1PARTE3.exe
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\bin\Debug\net6.0\EXERCICIO1PARTE3.deps.json
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\bin\Debug\net6.0\EXERCICIO1PARTE3.runtimeconfig.json
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\bin\Debug\net6.0\EXERCICIO1PARTE3.dll
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\bin\Debug\net6.0\EXERCICIO1PARTE3.pdb
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\EXERCICIO1PARTE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\EXERCICIO1PARTE3.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\EXERCICIO1PARTE3.AssemblyInfo.cs
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\EXERCICIO1PARTE3.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\EXERCICIO1PARTE3.dll
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\refint\EXERCICIO1PARTE3.dll
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\EXERCICIO1PARTE3.pdb
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\EXERCICIO1PARTE3.genruntimeconfig.cache
+C:\Users\Administrador\Documents\EXERCICIO1PARTE3\EXERCICIO1PARTE3\obj\Debug\net6.0\ref\EXERCICIO1PARTE3.dll

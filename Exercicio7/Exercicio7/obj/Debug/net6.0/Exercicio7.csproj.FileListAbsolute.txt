@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.exe
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.deps.json
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.runtimeconfig.json
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.dll
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.pdb
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.dll
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\refint\Exercicio7.dll
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.pdb
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Exercicio7\Exercicio7\obj\Debug\net6.0\ref\Exercicio7.dll

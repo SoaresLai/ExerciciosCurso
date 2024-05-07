@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hdCc4Cmwwt5HA1gfKQ+BoM6BQSCcGOYiA/B8eA9A7RXikU8v1aI/gKhszEXlI5u58/TprzcX/a+qACAmkQveg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laiane\\Desktop\\Minha pasta\\Curso C #\\Exercicios3Parte3\\Exercicios3Parte3\\Exercicios3Parte3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laiane\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Laiane\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Laiane\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Laiane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

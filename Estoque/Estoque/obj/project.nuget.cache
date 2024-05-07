@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jigkyxnnGyXhj/2MtoyDR/K2bJ6+9iHad1jTFIu+OKZDRW7CPIwSC78uEGhoQaJBQPmUohulfNcgsXTPT0W93A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laiane\\Desktop\\Curso C #\\Estoque\\Estoque\\Estoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laiane\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Laiane\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Laiane\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Laiane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

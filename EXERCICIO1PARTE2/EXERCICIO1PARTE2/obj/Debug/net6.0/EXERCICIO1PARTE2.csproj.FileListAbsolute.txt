@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\bin\Debug\net6.0\EXERCICIO1PARTE2.exe
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\bin\Debug\net6.0\EXERCICIO1PARTE2.deps.json
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\bin\Debug\net6.0\EXERCICIO1PARTE2.runtimeconfig.json
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\bin\Debug\net6.0\EXERCICIO1PARTE2.dll
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\bin\Debug\net6.0\EXERCICIO1PARTE2.pdb
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\EXERCICIO1PARTE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\EXERCICIO1PARTE2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\EXERCICIO1PARTE2.AssemblyInfo.cs
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\EXERCICIO1PARTE2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\EXERCICIO1PARTE2.dll
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\refint\EXERCICIO1PARTE2.dll
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\EXERCICIO1PARTE2.pdb
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\EXERCICIO1PARTE2.genruntimeconfig.cache
+C:\Users\Administrador\Documents\EXERCICIO1PARTE2\EXERCICIO1PARTE2\obj\Debug\net6.0\ref\EXERCICIO1PARTE2.dll
